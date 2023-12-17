@@ -275,7 +275,7 @@ html{
 }
 @keyframes javascript {
     0%{width: 0%;}
-    100%{width: 60%;}
+    100%{width: 40%;}
 }
 
 .skills .skill .htmlcss{
@@ -302,7 +302,7 @@ html{
 }
 @keyframes wordpress {
     0%{width: 0%;}
-    100%{width: 40%;}
+    100%{width: 20%;}
 }
 
 .skills .skill .drupal{
@@ -311,7 +311,7 @@ html{
 }
 @keyframes drupal {
     0%{width: 0%;}
-    100%{width: 30%;}
+    100%{width: 10%;}
 }
 
 .skills .skill .comunicacion{
